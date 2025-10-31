@@ -85,5 +85,3 @@ Her hafta yeni projeler, öğrendiklerim ve notlarım burada! 📚
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mustafa%20Küçükcoşkun-blue?logo=linkedin)](https://www.linkedin.com/in/mustafa-k%C3%BC%C3%A7%C3%BCkco%C5%9Fkun/)
 
 ---
-
-⭐ **Bu repo'yu beğendiysen yıldız vermeyi unutma!** ⭐
