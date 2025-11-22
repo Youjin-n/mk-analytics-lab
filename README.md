@@ -1,87 +1,61 @@
-# 🚀 Analytics Engineering Journey
+# 🧪 MK Analytics & Security Lab
 
-![Python](https://img.shields.io/badge/python-3.11-blue)
-![Status](https://img.shields.io/badge/status-active-success)
-![Progress](https://img.shields.io/badge/progress-week%201-orange)
+## 🚀 About This Repository
 
-> **Beğenirsen ⭐ bırakmayı unutma! Destek için teşekkürler!** ✨
+Welcome to my  **R&D (Research & Development) Laboratory** .
 
-Bu repo, Analytics Engineer olma sürecimde geliştirdiğim tüm projeleri, veri işleme pratiklerini ve teknik beceri ilerlememi içerir.  
-**Hedefim:** 6 ay içinde Veri/MLOps odaklı Junior Analytics Engineer olarak işe başlamak.
+This repository serves as the "scratchpad" and documentation hub for my intensive 24-week journey into  **Data Science, MLOps, and AI Security** . Here, I document my learning process, code snippets, algorithm solutions, and experimental scripts before they are implemented into production-grade projects.
 
----
+> **Note:** The code in this repository is experimental and educational. For production-ready, architectural projects, please refer to my **Flagship Repositories** below.
 
-## 📌 Yol Haritam (6 Ay)
+## 🏆 Flagship Projects (The "Big 4")
 
-| Hafta | Konu | Durum | Repo Linki |
-|------|------|------|-----------|
-| 1 | Python + OOP + Test + CLI | ✅ Devam ediyor | 🔤 Kelime Sayacı (yakında) |
-| 2 | NumPy | ⏳ Sırada | — |
-| 3 | Pandas | ⏳ Sırada | — |
-| 4 | SQL + Pandas ETL | — | — |
-| 5 | Power BI + Dashboard | — | — |
-| 6 | Full-Stack Analytics Mini Project | — | — |
-| 7-24 | dbt, Airflow, BigQuery, CI/CD, Spark, GenAI | — | — |
+While this repo tracks my  *daily progress* , the following repositories demonstrate my ability to build  *end-to-end systems* :
 
-📌 **Güncel odak**: Week 1 → Python mastery + test coverage
+| **Project**                                                                                          | **Domain**         | **Status** | **Description**                                                           |
+| ---------------------------------------------------------------------------------------------------------- | ------------------------ | ---------------- | ------------------------------------------------------------------------------- |
+| [**SentinelWatch**](https://www.google.com/search?q=https://github.com/YOUR_USERNAME/SentinelWatch "null") | 🛡️ Security / Data Eng | 🟡 In Progress   | Log simulation & real-time threat detection dashboard using Regex & Python OOP. |
+| **PhishGuard AI**                                                                                    | 🤖 MLOps / Security      | 🔴 Planned       | End-to-end ML pipeline for phishing detection with Docker & Cloud deployment.   |
+| **SecureLLM**                                                                                        | 🧠 AI Security           | 🔴 Planned       | Firewall against Prompt Injection & adversarial attacks on LLMs.                |
+| **Capstone**                                                                                         | 🏗️ Full Stack Data     | 🔴 Planned       | The final architecture combining all skills.                                    |
 
----
+## 📂 Repository Structure
 
-## 🔤 Week 1 – Kelime Sayacı (Ana Proje - Devam Ediyor)
+This lab is organized by weeks and topics, following a strict "Zero to Hero" roadmap:
 
-### ✅ Teknik Beceriler:
-- Fonksiyonlar, OOP (inheritance, polymorphism)
-- File I/O + JSON export
-- Regex + Türkçe karakter desteği
-- pytest ile test coverage (%80+)
-- argparse CLI arayüzü
-- Git branching + version control
-
-### 📁 Klasör yapısı:
 ```
 mk-analytics-lab/
-├── src/
-│   └── kelime_sayaci.py
-├── tests/
-│   └── test_kelime_sayaci.py
-├── data/
-│   ├── raw/
-│   └── processed/
-└── README.md
+├── week-01-python-oop/       # Python OOP, Regex patterns, File I/O experiments
+├── week-02-linux-git/        # Bash scripting, Cron jobs, Git flow practices
+├── week-03-sql-db/           # Advanced SQL queries, Schema designs
+├── exercises/                # LeetCode, HackerRank, and algorithm challenges
+├── notes/                    # Theoretical notes and cheat sheets
+└── sandbox/                  # Quick & dirty scripts (playground)
+
 ```
 
-🎬 Demo ve GitHub Actions badge'leri yakında eklenecek!
+## 🛠️ Technologies & Tools
 
----
+I am actively learning and experimenting with the following stack:
 
-## 🛠️ Teknolojiler
+* **Core:** Python, SQL, Bash
+* **Data:** Pandas, NumPy, Regex
+* **ML & AI:** Scikit-Learn, PyTorch, LangChain
+* **Ops:** Docker, GitHub Actions, Airflow, GCP/AWS
+* **Security:** OWASP Top 10 for LLM, Adversarial ML
 
-**Şu an:**
-- Python 3.11
-- pytest
-- Git / GitHub
+## 📈 Progress Tracker
 
-**İleride:**
-- NumPy, Pandas, SQL
-- BigQuery, dbt, Airflow
-- CI/CD (GitHub Actions)
-- Spark, GenAI (LangChain)
+* [X] **Week 01:** Python OOP & Security Basics (Regex/Log Parsing)
+* [ ] **Week 02:** Linux Automation & Git Internals
+* [ ] **Week 03:** Database Design & SQL
+* [ ] ... *(Updating weekly)*
 
----
+## 📫 Contact
 
-## 📈 İlerleme & Hedefim
+I am a Data Science & Security enthusiast building the bridge between AI and Cybersecurity.
 
-> 📅 **Başlangıç:** 31 Ekim 2025  
-> 🎯 **Hedef:** İlk teklifi almak — **2026 Nisan**
+* **GitHub:** [github.com/YOUR_USERNAME](https://www.google.com/search?q=https://github.com/YOUR_USERNAME "null")
+* **LinkedIn:** [linkedin.com/in/YOUR_PROFILE](https://www.google.com/search?q=https://linkedin.com/in/ "null")
 
-Bu yolculuk boyunca tüm ilerlememi bu repoda paylaşacağım.  
-Her hafta yeni projeler, öğrendiklerim ve notlarım burada! 📚
-
----
-
-## 📬 İletişim
-
-[![GitHub](https://img.shields.io/badge/GitHub-Youjin--n-black?logo=github)](https://github.com/Youjin-n)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mustafa%20Küçükcoşkun-blue?logo=linkedin)](https://www.linkedin.com/in/mustafa-k%C3%BC%C3%A7%C3%BCkco%C5%9Fkun/)
-
----
+*This repository is part of a rigorous 24-week engineering bootcamp.*
