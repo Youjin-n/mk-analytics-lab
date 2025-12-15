@@ -1,61 +1,51 @@
 # 📊 DS Learning Lab
 
-## 🚀 About This Repository
+> 60 haftalık Data Science, MLOps ve AI Security öğrenim yolculuğum.
 
-Welcome to my  **R&D (Research & Development) Laboratory** .
+## 🚀 About
 
-This repository serves as the "scratchpad" and documentation hub for my intensive 24-week journey into  **Data Science, MLOps, and AI Security** . Here, I document my learning process, code snippets, algorithm solutions, and experimental scripts before they are implemented into production-grade projects.
+Bu repo, **Zero to Hero** yaklaşımıyla Data Science ve AI Security alanlarında uzmanlaşma sürecimi belgeler. Haftalık egzersizler, projeler ve öğrenim notlarımı içerir.
 
-> **Note:** The code in this repository is experimental and educational. For production-ready, architectural projects, please refer to my **Flagship Repositories** below.
+## 🏆 Flagship Projects
 
-## 🏆 Flagship Projects (The "Big 4")
+| Project | Domain | Status | Description |
+|---------|--------|--------|-------------|
+| **SentinelWatch** | 🛡️ Security / Data Eng | 🟡 In Progress | Log simulation & threat detection |
+| **PhishGuard AI** | 🤖 MLOps / Security | 🔴 Planned | ML pipeline for phishing detection |
+| **SecureLLM** | 🧠 AI Security | 🔴 Planned | LLM prompt injection firewall |
 
-While this repo tracks my  *daily progress* , the following repositories demonstrate my ability to build  *end-to-end systems* :
-
-| **Project**                                                                                          | **Domain**         | **Status** | **Description**                                                           |
-| ---------------------------------------------------------------------------------------------------------- | ------------------------ | ---------------- | ------------------------------------------------------------------------------- |
-| [**SentinelWatch**](https://www.google.com/search?q=https://github.com/YOUR_USERNAME/SentinelWatch "null") | 🛡️ Security / Data Eng | 🟡 In Progress   | Log simulation & real-time threat detection dashboard using Regex & Python OOP. |
-| **PhishGuard AI**                                                                                    | 🤖 MLOps / Security      | 🔴 Planned       | End-to-end ML pipeline for phishing detection with Docker & Cloud deployment.   |
-| **SecureLLM**                                                                                        | 🧠 AI Security           | 🔴 Planned       | Firewall against Prompt Injection & adversarial attacks on LLMs.                |
-| **Capstone**                                                                                         | 🏗️ Full Stack Data     | 🔴 Planned       | The final architecture combining all skills.                                    |
-
-## 📂 Repository Structure
-
-This lab is organized by weeks and topics, following a strict "Zero to Hero" roadmap:
+## 📂 Structure
 
 ```
 ds-learning-lab/
-├── week-01-python-oop/       # Python OOP, Regex patterns, File I/O experiments
-├── week-02-linux-git/        # Bash scripting, Cron jobs, Git flow practices
-├── week-03-sql-db/           # Advanced SQL queries, Schema designs
-├── exercises/                # LeetCode, HackerRank, and algorithm challenges
-├── notes/                    # Theoretical notes and cheat sheets
-└── sandbox/                  # Quick & dirty scripts (playground)
-
+├── faz-1-core/          # Week 1-20: Core Engineering & Analytics
+├── faz-2-production/    # Week 21-34: Production & Deploy
+├── faz-3-ml/            # Week 35-50: ML & MLOps
+├── faz-4-ai-security/   # Week 51-60: AI Security & RAG
+├── _templates/          # Week templates & checklists
+├── _resources/          # Cheatsheets & references
+└── progress/            # Roadmap & progress tracking
 ```
 
-## 🛠️ Technologies & Tools
+� See [STRUCTURE.md](STRUCTURE.md) for detailed folder breakdown.
 
-I am actively learning and experimenting with the following stack:
+## 📈 Progress
 
-* **Core:** Python, SQL, Bash
-* **Data:** Pandas, NumPy, Regex
-* **ML & AI:** Scikit-Learn, PyTorch, LangChain
-* **Ops:** Docker, GitHub Actions, Airflow, GCP/AWS
-* **Security:** OWASP Top 10 for LLM, Adversarial ML
+| Phase | Weeks | Focus | Status |
+|-------|-------|-------|--------|
+| Faz 1 | 1-20 | Core Engineering & Analytics | � In Progress |
+| Faz 2 | 21-34 | Production & Deploy | ⚪ Not Started |
+| Faz 3 | 35-50 | ML & MLOps | ⚪ Not Started |
+| Faz 4 | 51-60 | AI Security & RAG | ⚪ Not Started |
 
-## 📈 Progress Tracker
+## �️ Tech Stack
 
-* [X] **Week 01:** Python OOP & Security Basics (Regex/Log Parsing)
-* [ ] **Week 02:** Linux Automation & Git Internals
-* [ ] **Week 03:** Database Design & SQL
-* [ ] ... *(Updating weekly)*
+**Core:** Python, SQL, Bash  
+**Data:** Pandas, NumPy, Great Expectations  
+**ML:** Scikit-Learn, XGBoost, MLflow  
+**Ops:** Docker, Airflow, dbt, GitHub Actions  
+**Security:** OWASP LLM Top 10, RAG, NIST AI RMF
 
-## 📫 Contact
+---
 
-I am a Data Science & Security enthusiast building the bridge between AI and Cybersecurity.
-
-* **GitHub:** [github.com/YOUR_USERNAME](https://www.google.com/search?q=https://github.com/YOUR_USERNAME "null")
-* **LinkedIn:** [linkedin.com/in/YOUR_PROFILE](https://www.google.com/search?q=https://linkedin.com/in/ "null")
-
-*This repository is part of a rigorous 24-week engineering bootcamp.*
+*This repository is part of a 60-week intensive learning journey.*
