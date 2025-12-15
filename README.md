@@ -1,4 +1,4 @@
-# 🧪 MK Analytics & Security Lab
+# 📊 DS Learning Lab
 
 ## 🚀 About This Repository
 
@@ -24,7 +24,7 @@ While this repo tracks my  *daily progress* , the following repositories demonst
 This lab is organized by weeks and topics, following a strict "Zero to Hero" roadmap:
 
 ```
-mk-analytics-lab/
+ds-learning-lab/
 ├── week-01-python-oop/       # Python OOP, Regex patterns, File I/O experiments
 ├── week-02-linux-git/        # Bash scripting, Cron jobs, Git flow practices
 ├── week-03-sql-db/           # Advanced SQL queries, Schema designs
