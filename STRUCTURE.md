@@ -37,10 +37,19 @@ ds-learning-lab/
 │   └── track-portfolio/              # Grand Finale (Week 60)
 │
 ├── 📁 _templates/                    # Reusable templates
-│   └── week-template/                # Standard week folder structure
-│       ├── exercises/
-│       ├── notes/
-│       └── artifacts/
+│   ├── week-template-code/           # Python/API/ML weeks
+│   │   ├── README.md
+│   │   ├── src/                      # Mini proje kodu
+│   │   ├── exercises/
+│   │   ├── tests/
+│   │   ├── notes/
+│   │   └── artifacts/
+│   ├── week-template-noncode/        # SQL/Excel/PowerBI weeks
+│   │   ├── README.md
+│   │   ├── exercises/
+│   │   ├── notes/
+│   │   └── artifacts/
+│   └── CHECKLIST.md
 │
 ├── 📁 _resources/                    # Learning resources
 │   ├── cheatsheets/
@@ -48,7 +57,7 @@ ds-learning-lab/
 │   └── interview-prep/
 │
 ├── 📁 progress/                      # Progress tracking
-│   ├── ROADMAP.md                    # Master 60-week plan
+│   ├── DASHBOARD.md                  # Daily control panel
 │   ├── WEEKLY_LOG.md                 # Weekly summaries
 │   └── DONE_EVIDENCE.md              # Completion evidence
 │
@@ -77,8 +86,16 @@ ds-learning-lab/
 
 ## 🎯 Per-Week Folder Contents
 
-Each week folder should contain:
+### Code Weeks (Python/API/ML)
 - `README.md` - Week goals, checklist, resources
-- `exercises/` - Practice problems and solutions
-- `notes/` - Theory notes and summaries
-- `artifacts/` - Screenshots, demos, outputs (DONE evidence)
+- `src/` - Mini proje kodu
+- `exercises/` - Alıştırma çözümleri
+- `tests/` - Test dosyaları
+- `notes/` - Teori notları
+- `artifacts/` - Screenshot, demo, çıktı
+
+### Non-Code Weeks (SQL/Excel/PowerBI)
+- `README.md` - Week goals, checklist, resources
+- `exercises/` - Sorgular, formüller
+- `notes/` - Teori notları
+- `artifacts/` - Rapor, dashboard screenshot
